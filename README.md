@@ -53,7 +53,7 @@ Dynamic and efficient single-page website with:
 - Adaptability
 
 ---
-
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE1MmNlZjY1NWIwNWEyN2Y5ZGVjNjBjZGRmMjFjNmMzZTkzZjcyZCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajjj&label=Profile%20views&color=0e75b6&style=flat" alt="nirajjj" /> </p>
 
 > Let's build something amazing together! Reach out and connect!
