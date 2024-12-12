@@ -1,16 +1,20 @@
-![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJiZGRjYTgyOGM0NTdkYTQ1ZjFiMjY3ZTM3ZTdhNTI5NmYzOTNkNiZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif)
-
+<!---![Header](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYjJiZGRjYTgyOGM0NTdkYTQ1ZjFiMjY3ZTM3ZTdhNTI5NmYzOTNkNiZjdD1n/QTfX9Ejfra3ZmNxh6B/giphy.gif)
+-->
+<div align="center">
+    <img src="https://github.com/Nirajjj/Nirajjj/blob/main/assets/glasses-anime.gif?raw=true" alt="Anime Character Adjusting Glasses GIF">
+    <h1>Hi there, I'm Niraj Parab! 👋</h1>
+    <p>Welcome to my GitHub profile! I'm a passionate <strong>Full-Stack Developer</strong> specializing in the MERN stack, with a knack for building scalable, user-friendly applications.</p>
+</div>
+<!---
 # Hi there, I'm Niraj Parab! 👋
-
 Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** specializing in the MERN stack, with a knack for building scalable, user-friendly applications. 
-
+-->
 ## About Me
 
 - 🌍 Based in **Mumbai, India**  
 - 🎓 **Education:** University of Mumbai (CGPA: 8.7)  
 - 📧 Reach me at: [nirajparab007@gmail.com](mailto:nirajparab007@gmail.com)  
 - 🌐 LinkedIn: [Niraj Parab](https://www.linkedin.com/in/niraj-parab)  
-- 💻 GitHub: [Nirajjj](https://github.com/Nirajjj)  
 
 ## Tech Stack
 
