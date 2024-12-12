@@ -54,6 +54,7 @@ Dynamic and efficient single-page website with:
 
 ---
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE1MmNlZjY1NWIwNWEyN2Y5ZGVjNjBjZGRmMjFjNmMzZTkzZjcyZCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nirajjj&show_icons=true&locale=en&layout=compact" alt="nirajjj" /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nirajjj&label=Profile%20views&color=0e75b6&style=flat" alt="nirajjj" /> </p>
 
 > Let's build something amazing together! Reach out and connect!
