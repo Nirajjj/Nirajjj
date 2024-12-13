@@ -42,10 +42,11 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** speciali
 ## Tech Stack
 
 <a name="learning-now"></a>
-<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
 <img src="https://img.shields.io/badge/React-282C34?logo=react&logoColor=61DAFB" alt="React logo" title="React" height="25" />
+<img src="https://img.shields.io/badge/Redux-282C34?logo=redux&logoColor=61DAFB" alt="Redux logo" title="Redux" height="25" />
+<img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
+<img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
 <img src="https://img.shields.io/badge/Express.js-282C34?logo=express&logoColor=FFFFFF" alt="Express.js logo" title="Express.js" height="25" />
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb&logoColor=47A248" alt="MongoDB logo" title="MongoDB" height="25" />
 <img src="https://img.shields.io/badge/Node.js-282C34?logo=node.js&logoColor=339933" alt="Node.js logo" title="Node.js" height="25" />
@@ -53,7 +54,7 @@ Welcome to my GitHub profile! I'm a passionate **Full-Stack Developer** speciali
 <img src="https://img.shields.io/badge/TailwindCSS-282C34?logo=tailwindcss&logoColor=06B6D4" alt="Tailwind CSS logo" title="Tailwind CSS" height="25" />
 <img src="https://img.shields.io/badge/Git-282C34?logo=git&logoColor=F05032" alt="Git logo" title="Git" height="25" />
 <img src="https://img.shields.io/badge/GitHub-282C34?logo=github&logoColor=FFFFFF" alt="GitHub logo" title="GitHub" height="25" />
-<img src="https://img.shields.io/badge/RESTful%20API-282C34?logo=api&logoColor=FFFFFF" alt="RESTful API logo" title="RESTful API" height="25" />
+<img src="https://img.shields.io/badge/jquery-282C34?logo=jquery&logoColor=FFFFFF" alt="jquery" title="jquery" height="25" />
 
 <a name="learning-next"></a>
 
