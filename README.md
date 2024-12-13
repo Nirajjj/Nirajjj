@@ -78,17 +78,6 @@ Dynamic and efficient single-page website with:
 - Infinite scrolling and search-as-you-type functionality
 - React component-based modular design
 
-## Certifications
-- **Advanced React Certification**
-- **Advanced Back-End Certification**
-- **Full-Stack Web Development Course**
-
-## Soft Skills
-- Problem-Solving
-- Leadership
-- Communication
-- Adaptability
-
 ---
 <!---
 ![](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNTE1MmNlZjY1NWIwNWEyN2Y5ZGVjNjBjZGRmMjFjNmMzZTkzZjcyZCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
